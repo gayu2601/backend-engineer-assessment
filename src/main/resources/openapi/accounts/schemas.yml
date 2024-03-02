@@ -94,3 +94,4 @@ components:
           description: "Email of user"
           example: "john@doe.com"
           required: false
+        $ref: "#/components/schemas/account"
